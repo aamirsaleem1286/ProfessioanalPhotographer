@@ -4,15 +4,15 @@ import { useInView } from 'react-intersection-observer';
 
 const portfolioData = [
   {
-    imgSrc: "/wedding.png",
+    imgSrc: "/wedding.jpg",
     title: "Wedding",
   },
   {
-    imgSrc: "/family.png",
+    imgSrc: "/family.jpg",
     title: "Family",
   },
   {
-    imgSrc: "/couple.png",
+    imgSrc: "/couple.jpg",
     title: "Couples",
   },
   {
@@ -20,19 +20,19 @@ const portfolioData = [
     title: "Homes",
   },
   {
-    imgSrc: "/birthday.png",
+    imgSrc: "/birthday.jpg",
     title: "Birthday",
   },
   {
-    imgSrc: "/food.png",
+    imgSrc: "/food.jpg",
     title: "Food",
   },
   {
-    imgSrc: "/realstate.png",
+    imgSrc: "/realstate.jpg",
     title: "Real Estate",
   },
   {
-    imgSrc: "/travel.png",
+    imgSrc: "/travel.jpg",
     title: "Travel",
   },
 ];
