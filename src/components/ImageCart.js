@@ -2,6 +2,7 @@
 import Link from "next/link";
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 const data = [
   {
@@ -36,7 +37,7 @@ const ImageCart = () => {
       <div className="container mx-auto flex flex-col md:flex-row px-5 py-8 items-center">
         <div className="md:w-1/2 w-full mb-6 md:mb-0">
           <div className="relative">
-            <img
+            <Image
               src={data[slider].img}
               alt="hero"
               className="object-cover object-center rounded w-full md:w-3/4"
