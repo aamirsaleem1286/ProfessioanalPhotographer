@@ -67,8 +67,8 @@ const Testimonials = () => {
               alt={testimonial.author}
             />
           </div>
-          <p className="text-white italic text-sm md:text-base">"{testimonial.text}"</p>
-          <p className="text-[#fc9003] mt-2 text-sm md:text-base">- {testimonial.author}</p>
+          <p className="text-white italic text-sm md:text-base">{testimonial.text}</p>
+          <p className="text-[#fc9003] mt-2 text-sm md:text-base">{testimonial.author}</p>
         </motion.div>
       </AnimatePresence>
     ))}

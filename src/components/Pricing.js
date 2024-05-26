@@ -143,7 +143,7 @@ const Pricing = () => {
                   </svg>
                 </button></Link>
                 <p className="text-xs text-gray-500 mt-3">
-                  Literally you probably haven't heard of them jean shorts.
+                  Literally you probably havenot heard of them jean shorts.
                 </p>
               </div>
             </motion.div>
