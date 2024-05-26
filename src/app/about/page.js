@@ -35,7 +35,7 @@ const page = () => {
             <Image
               className="object-cover object-center rounded"
               alt="hero"
-              src="/aboutsec.png"
+              src="/aboutsec.jpg"
               width={400}
               height={350}
             />
