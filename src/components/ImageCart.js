@@ -6,17 +6,17 @@ import Image from "next/image";
 
 const data = [
   {
-    img: "/img1.png",
+    img: "/img1.jpg",
     heading: "Capture Your Moments with Professional Photography",
     para:"Experience the art of photography with our expert team. From breathtaking landscapes to intimate portraits, we capture the essence of every moment with precision and creativity. Let us turn your special occasions into timeless memories with our professional and personalized photography services."
   },
   {
-    img: "/img3.png",
+    img: "/img3.jpg",
     heading: "Capture Your Moments with Professional Photography",
     para:"Experience the art of photography with our expert team. From breathtaking landscapes to intimate portraits, we capture the essence of every moment with precision and creativity. Let us turn your special occasions into timeless memories with our professional and personalized photography services."
   },
   {
-    img: "/img2.png",
+    img: "/img2.jpg",
     heading: "Capture Your Moments with Professional Photography",
     para:"Experience the art of photography with our expert team. From breathtaking landscapes to intimate portraits, we capture the essence of every moment with precision and creativity. Let us turn your special occasions into timeless memories with our professional and personalized photography services.",
   }
